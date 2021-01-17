@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",CANALSIN01
 http://ipeteve.com/php/t121220/mc.php?c=2&f=.m3u8
 #EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",A&E
